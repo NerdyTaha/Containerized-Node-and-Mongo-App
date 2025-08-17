@@ -1,6 +1,6 @@
 ## demo app - developing with Docker
 
-### On a sidd note, this container was also pushed to AWS ECR (elsastic container registry) to simulate production.
+### On a side note, this container was also pushed to AWS ECR (elsastic container registry) to simulate production.
 - Details of the same can be found in aws-directory of the repo.
 
 This demo app shows a simple user profile app set up using 
