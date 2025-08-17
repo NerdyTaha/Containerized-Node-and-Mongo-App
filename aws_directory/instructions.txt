@@ -1,0 +1,12 @@
+This is a simple text file containing instructions about the AWS ECR. 
+
+To push your containerized app or to push your conatiners (docker images) to ECR: 
+
+(1) Create a free tier AWS account. 
+(2) Login to your console and verify account is running. 
+(3) Downlaod the aws cli for your system. 
+(4) Create an IAM user and set up an access key (store it securely)
+(5) Configure credentials of your aws cli by entering access key. 
+(6) Make an ECR regisitry/repository. 
+Then just copy the commands provided by aws and run it on your system (docker push).
+This would push your containers to AWS ECR.
